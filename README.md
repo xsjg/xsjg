@@ -8,3 +8,5 @@ Disciplinas:
 - Ciencias da Computação
 - Banco de Dados
 - Analise e Projeto de sistemas
+
+<i class="devicon-apple-original colored"></i>
