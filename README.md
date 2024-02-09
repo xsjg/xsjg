@@ -9,4 +9,4 @@ Disciplinas:
 - Banco de Dados
 - Analise e Projeto de sistemas
 
-<img heigh="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+<img height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
